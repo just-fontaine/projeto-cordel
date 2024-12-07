@@ -98,7 +98,7 @@ section {
     background-attachment: fixed;
 }
 
-p {
+article > p {
     padding-bottom: 1.5em;
 }
 
